@@ -1,0 +1,1 @@
+This work is from my rendering class during final quarter at UCSD. We implemented a ray tracer.
